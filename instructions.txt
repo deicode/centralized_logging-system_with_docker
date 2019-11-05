@@ -1,0 +1,5 @@
+1- être à la racine et lancer la commande docker-compose build
+2- apres telechargement des paquets lancer la commande docker-compose up pour lancer les machines
+3- une fois les machines lancées, ouvrir le navigateur et taper http://localhost:8080
+4- les identifiants d'accès sont admin/demo
+5- pour stopper l'environnement lancer la commande docker-compose down
